@@ -1,0 +1,28 @@
+footer {
+  color: gray;
+  padding: 20px;
+  text-align: center;
+}
+
+.contact-links {
+  margin-top: 20px;
+}
+
+#contact-link {
+  cursor: pointer;
+  color: #2196F3;
+}
+
+#contact-form-container {
+  display: none;
+  margin-top: 10px;
+}
+
+.contact-info {
+  margin-top: 20px;
+}
+
+.phone,
+.email {
+  margin: 5px 0;
+}
